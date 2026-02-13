@@ -1,0 +1,2 @@
+student1 88
+student2 73

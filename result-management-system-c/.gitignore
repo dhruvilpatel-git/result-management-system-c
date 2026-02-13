@@ -1,0 +1,10 @@
+# Build artifacts
+*.o
+*.out
+*.exe
+rms
+
+# Editors
+.vscode/
+.idea/
+.DS_Store

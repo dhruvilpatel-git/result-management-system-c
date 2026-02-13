@@ -54,8 +54,9 @@ student_username marks
 - Student: `student1 / pass123`
 - Student: `student2 / pass123`
 
-## Roadmap (Optional Enhancements)
-- Support multiple subjects per student
-- Hash passwords instead of storing plain text (for learning purposes only)
-- Export results to CSV
-- Add input validation and better error messages
+## Future Enhancements
+
+- Support multiple subjects per student  
+- Implement password hashing for improved security  
+- Enable CSV export for reporting  
+- Add robust input validation and error handling  
